@@ -87,4 +87,18 @@ Popüler bir kod editörü. Kullanmadığım için bilmiyorum :blush:
 - Linux </br></br>
 
 ### Benim önerim
-Açık kaynak kullanın :blush: . 
+Açık kaynak kullanın :blush:.
+
+# Eğer bilgisayarınız yoksa Python programlayabileceğiniz mobil uygulamalar
+## [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=tr&gl=US&pli=1)
+Pydroid, android ortamında kullanabileceğiniz Python editörü. Çoğu Python kütüphanesini barındırmaktadır. </br></br>
+
+## [Pyto](https://apps.apple.com/tr/app/pyto-python-3/id1436650069?l=tr)
+Pyto, İOS ortamında kullanabileceğiniz Python editörü. İOS kullanmadığım için birşey diyemiyorum :blush:.
+
+## Çevrimiçi programlama web siteleri
+Web ortamında program yazmak sizi sınırlandırır. Bazı kütüphanelerin olmaması(Tkinter,os,Sqlite/MySql vs.) büyük bir eksidir. En iyi çevrimiçi kod editörleri:
+
+#1 [Online Gdb](https://www.onlinegdb.com/) </br>
+#2 [W3School](https://www.w3schools.com/python/python_compiler.asp) </br>
+#3 [Online IDE](https://www.online-ide.com/online_python_ide)
